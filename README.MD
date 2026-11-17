@@ -2,11 +2,11 @@
 
 ### Eric Steven Raymond
 
-[Thyrsus Enterprises](http://www.catb.org/~esr/) `<`[esr@thyrsus.com](mailto:esr@thyrsus.com)`>`
+[Thyrsus Enterprises](http://www.catb.org/~esr/) [esr@thyrsus.com](mailto:esr@thyrsus.com)
 
 ### Rick Moen
 
-`<`[respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com)`>`
+[respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com)
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
@@ -107,7 +107,7 @@ The core message — do your homework, describe your problem precisely, respect 
 
 ## Translations
 
-This guide has been translated into many languages; see the [original document](http://www.catb.org/~esr/faqs/smart-questions.html) for the current list. A Chinese translation (Simplified and Traditional) is maintained at [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way).
+**Original** guide has been translated into many languages; see the [original document](http://www.catb.org/~esr/faqs/smart-questions.html) for the current list. A Chinese translation (Simplified and Traditional) is maintained at [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way).
 
 ## Disclaimer
 
